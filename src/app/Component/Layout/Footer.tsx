@@ -17,8 +17,8 @@ const Footer = () => {
             <h3>EARPHONES</h3>
           </div>
           <div className='text-gray-400 mt-9 '>
-            <p>Audiophile is an all in one stop to fulfill your audio needs. We're a small team of music lovers and sound specialists who are devoted to helping get the most out of personal audio. Come and visit our demo facility - we're open 7 days a week.</p>
-            <p className='mt-10'>Copyright 2021. All Rights Reserved</p>
+            <p>Audiophile is an all in one stop to fulfill your {'audio needs. We,re}'} a small team of music lovers and sound specialists who are devoted to helping get the most out of personal{' audio. Come '}and visit our demo {'facility - were open 7 days a week.'}</p>
+            <p className='mt-10'>{'Copyright 2021.'} All Rights Reserved</p>
           </div>
           <div className='flex space-x-6 mt-9 justify-center items-center lg:ml-96'>
             <FaFacebookSquare size={30} className="text-white" />
